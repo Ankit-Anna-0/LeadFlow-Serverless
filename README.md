@@ -30,26 +30,26 @@ Steps Overview
 
 Below is the outline of all steps. Each step folder contains detailed instructions, screenshots, and results.
 
-Step 1
+Step 1 - S3 Bucket
 
-Step 2
+Step 2 - Route 53
 
-Step 3
+Step 3 - ACM
 
-Step 4
+Step 4 - CloudFront
 
-Step 5
+Step 5 - Route 53 CONFIG
 
-Step 6
+Step 6 - Website
 
-Step 7
+Step 7 - SES
 
-Step 8
+Step 8 - Lambda iam role and policy
 
-Step 9
+Step 9 - lambda
 
-Step 10
+Step 10 - Rest API
 
-Step 11
+Step 11 - Change in JS code
 
-Step 12
+Step 12 - DynamoDB 
