@@ -1,0 +1,23 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "CloudWatchLogsBasic",
+      "Effect": "Allow",
+      "Action": ["logs:CreateLogGroup"],
+      "Resource": "*"
+    },
+    {
+      "Sid": "CloudWatchLogsStreamEvents",
+      "Effect": "Allow",
+      "Action": ["logs:CreateLogStream","logs:PutLogEvents"],
+      "Resource": "*"
+    },
+    {
+      "Sid": "AllowSesSendEmail",
+      "Effect": "Allow",
+      "Action": ["ses:SendEmail","ses:SendRawEmail"],
+      "Resource": "*"
+    }
+  ]
+}
