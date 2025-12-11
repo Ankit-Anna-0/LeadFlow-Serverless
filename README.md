@@ -1,7 +1,7 @@
 # leadflow-serverless
 
-<!-- Space for Flow Diagram -->
-<!-- Example: ![Flow Diagram](images/flow.png) -->
+![Screenshot_11-12-2025_114014_lucid app](https://github.com/user-attachments/assets/5cbdab84-29ae-4aad-afb2-fc94ccdf8fa1)
+
 
 ## Project Description
 
